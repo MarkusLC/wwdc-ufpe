@@ -10,4 +10,5 @@ To add yours just [edit](https://github.com/iillx/wwdc-ufpe/edit/master/README.m
 
 | Name | Title  | Source |    Videos/Images    | Technologies | Status |
 |------|--------|--------|---------------------|--------------|--------|
+| Emerson Victor | BeProud | [GitHub](https://github.com/EmersonVictor/wwdc18) |-| SpriteKit, UIKit | work in progress |
 | Isabel Lima| (soon) | [GitHub](https://github.com/iillx/WWDC18) |-| SpriteKit, GameplayKit | work in progress |
