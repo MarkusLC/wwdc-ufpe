@@ -12,3 +12,4 @@ To add yours just [edit](https://github.com/iillx/wwdc-ufpe/edit/master/README.m
 |------|--------|--------|---------------------|--------------|--------|
 | Emerson Victor | BeProud | [GitHub](https://github.com/EmersonVictor/wwdc18) |-| SpriteKit, UIKit | work in progress |
 | Isabel Lima| (soon) | [GitHub](https://github.com/iillx/WWDC18) |-| SpriteKit, GameplayKit | work in progress |
+| Markus Lopes C.| Suzi's Quiz | [GitHub](https://github.com/MarkusLC/WWDC-SuziQuiz)|-| UIKit | Accepted |
